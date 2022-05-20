@@ -3,7 +3,7 @@
 ## Initial Setup
 This project is set up and ready to go. Just run the following to download the dependencies.
 
-`npm install`
+`npm install
 
 ## Running
 Two options...
